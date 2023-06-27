@@ -21,27 +21,27 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['916909137213'] //ur owner number
-global.ownernomer = "916909137213" //ur owner number2
-global.ownername = "🦄Dream Guy Xeon" //ur owner name
-global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.owner = ['14422550677'] //ur owner number
+global.ownernomer = "14422550677" //ur owner number2
+global.ownername = "R⊕CKET-V8" //ur owner name
+global.ytname = "YT: https://chat.whatsapp.com/DGjCag8omSGG8irBcYDEYn" //ur yt chanel name
+global.socialm = "GitHub: https://chat.whatsapp.com/DGjCag8omSGG8irBcYDEYn" //ur github or insta name
+global.location = "america/lima" //ur location
 
 //new
-global.botname = "Cheems Bot MD V8"
-global.ownernumber = '916909137213'
-global.ownername = '🦄드림 가이 Xeon'
-global.ownerNumber = ["916909137213@s.whatsapp.net"]
-global.ownerweb = "https://youtube.com/@DGXeon"
-global.websitex = "https://youtu.be/L_SIk59QeAU"
-global.wagc = "https://chat.whatsapp.com/Dc2qyVeK8JbJq8Gr3U1pKH"
+global.botname = "R⊕CKET-V8"
+global.ownernumber = '447418347824'
+global.ownername = 'Cαcнιɴer⊕ мαldι†⊕ 〽️⚠️'
+global.ownerNumber = ["447418347824@s.whatsapp.net"]
+global.ownerweb = "https://chat.whatsapp.com/DGjCag8omSGG8irBcYDEYn"
+global.websitex = "https://chat.whatsapp.com/DGjCag8omSGG8irBcYDEYn"
+global.wagc = "https://chat.whatsapp.com/DGjCag8omSGG8irBcYDEYn"
 global.themeemoji = '🪀'
 global.wm = "Xeon Bot Inc."
-global.botscript = 'https://github.com/DGXeon/CheemsBot-MD6' //script link
-global.packname = "Sticker By"
-global.author = "🦄드림 가이 Xeon\n\n+916909137213"
-global.creator = "916909137213@s.whatsapp.net"
+global.botscript = 'https://chat.whatsapp.com/DGjCag8omSGG8irBcYDEYn' //script link
+global.packname = "Ⓥⓘⓖⓖⓞ"
+global.author = "𝙰𝚙𝚞𝚗𝚝𝚊 𝚊\n𝚕𝚊 𝚕𝚞𝚗𝚊,\n𝚜𝚒 𝚏𝚊𝚕𝚕𝚊𝚜,\n𝚙𝚘𝚍𝚛𝚒́𝚊𝚜\n𝚍𝚊𝚛 𝚊 𝚞𝚗𝚊\n𝚎𝚜𝚝𝚛𝚎𝚕𝚕𝚊\nⓥⓘⓖⓖⓞ🎖️🍒𝗙●𝗨●𝗖●𝗞 ≖ 𝗢●𝗙●𝗙🖕🏻😈😇"
+global.creator = "447418347824@s.whatsapp.net"
 global.prefa = ['','!','.','#','&']
 global.sessionName = 'session'
 global.hituet = 0
